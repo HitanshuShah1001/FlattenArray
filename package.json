@@ -4,7 +4,7 @@
   "description": "Flatten multidimensional array into 1 dimensional",
   "main": "index.js",
   "scripts": {
-    "start":"index.js",
+    "start":"node index.js",
     "test": "jest"
   },
   "author": "Hitanshu Shah",
