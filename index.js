@@ -10,10 +10,10 @@ function Flatten({ array, ans }) {
   }
 }
 
-function FlattenArray(array) {
+function Flattenme(array) {
   let ans = [];
   Flatten({ array, ans });
   return ans;
 }
 
-module.exports = FlattenArray;
+module.exports = Flattenme;

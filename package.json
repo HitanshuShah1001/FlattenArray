@@ -1,15 +1,16 @@
 {
-  "name": "flatten",
-  "version": "1.0.0",
+  "name": "flattenme",
+  "version": "1.0.1",
   "description": "Flatten multidimensional array into 1 dimensional",
   "main": "index.js",
   "scripts": {
-    "start":"node index.js",
+    "start": "node index.js",
     "test": "jest"
   },
-  "author": "Hitanshu Shah",
+  "author": "hitanshushah",
   "license": "ISC",
   "dependencies": {
-    "jenkins": "^1.0.1"
+    "jenkins": "^1.0.1",
+    "jest": "^29.5.0"
   }
 }
